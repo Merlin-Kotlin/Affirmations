@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+
+    <string name="affirmation1">I am strong and resilient.</string>
+    <string name="affirmation2">I believe in my ability to grow.</string>
+    <string name="affirmation3">Every day is a fresh start.</string>
+    <string name="affirmation4">I am worthy of great things.</string>
+    <string name="affirmation5">I embrace challenges with courage.</string>
+    <string name="affirmation6">I am at peace with who I am.</string>
+    <string name="affirmation7">I choose joy and positivity.</string>
+    <string name="affirmation8">I am constantly evolving.</string>
+    <string name="affirmation9">I have the power to create change.</string>
+    <string name="affirmation10">I am grateful for this moment.</string>
+</resources>
