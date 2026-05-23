@@ -19,7 +19,7 @@ An Android app that displays a scrollable list of positive affirmations with ima
 Built as part of [Google's Android Developer Course](https://developer.android.com/courses/android-basics-compose/course) — Unit 3
 
 ## Screenshots
-![screenshot.jpeg](../../Documents/screenshot.jpeg)
+![Affirmations App](screenshot/screenshot.jpeg)
 
 ## Author
 Merlin
